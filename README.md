@@ -20,10 +20,10 @@
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyzinx\&layout=compact\&theme=tokyonight)
-
 ## 🐍 Snake eating my contributions
 
 ![snake gif](https://github.com/shyzinx/shyzinx/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://komarev.com/ghpvc/?username=shyzinx\&color=blue)
 
 ## 📊 GitHub Stats
