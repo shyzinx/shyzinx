@@ -35,3 +35,6 @@
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
+## 🎧 Minhas músicas favoritas
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user= shyzinx)
