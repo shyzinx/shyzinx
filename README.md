@@ -1,8 +1,11 @@
 # Olá! 👋
 
 ✨ Meu nome é **Gabriella Alves**
+
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+
 💻 Aprendendo **Java, HTML e CSS**
+
 🚀 Em constante evolução
 
 ---
