@@ -31,3 +31,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyzinx\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyzinx\&layout=compact\&theme=tokyonight)
+## 🎧 Ouvindo no Spotify
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
