@@ -2,7 +2,7 @@
 
 ✨ Meu nome é Gabriella Alves
 
-🎓 Estudante de programação  
+🎓 Estudante de analise e desenvolvimento de sistemas
 💻 Aprendendo HTML, CSS, Java e C  
 🚀 Em constante evolução
 
