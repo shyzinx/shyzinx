@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**shyzinx/shyzinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Meu nome é Gabriella Alves
 
-Here are some ideas to get you started:
+🎓 Estudante de programação  
+💻 Aprendendo HTML, CSS, Java e C  
+🚀 Em constante evolução
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+---
+
+## 🛠️ Skills
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyzinx&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyzinx&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- LinkedIn
+- Instagram
+- Email
+
+
 - ⚡ Fun fact: ...
 -->
