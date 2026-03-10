@@ -20,21 +20,20 @@
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyzinx\&layout=compact\&theme=tokyonight)
+
+## 📈 GitHub Stats
+
+![Gabriella GitHub stats](https://github-readme-stats.vercel.app/api?username=shyzinx\&show_icons=true\&theme=tokyonight)
+
 ## 🐍 Snake eating my contributions
 
 ![snake gif](https://github.com/shyzinx/shyzinx/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=shyzinx\&color=blue)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyzinx\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyzinx\&layout=compact\&theme=tokyonight)
-## 🎧 Ouvindo no Spotify
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
 
 ## 🎧 Minhas músicas favoritas
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user= shyzinx)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=shyzinx)
